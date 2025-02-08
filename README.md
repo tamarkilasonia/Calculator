@@ -16,9 +16,6 @@ It allows users to perform basic arithmetic operations in an intuitive and user-
 - ✅ CSS3  
 - ✅ JavaScript  
 
-## 📸 Screenshot
-![Calculator Preview](https://via.placeholder.com/600x300)  
-(*Replace this with an actual screenshot!*)  
 
 ## 🚀 How to Use
 1. Clone the repository:  
