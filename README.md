@@ -31,6 +31,3 @@ It allows users to perform basic arithmetic operations in an intuitive and user-
 🔹 Implement keyboard support
 🔹 Improve UI animations and transitions
 
-🙌 About the Author
-👩‍💻 Tamar Kilasonia
-📌 Kutaisi International University | Passionate about coding & learning!
