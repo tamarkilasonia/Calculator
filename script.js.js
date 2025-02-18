@@ -1,9 +1,8 @@
-// script.js
-
-function appendToDisplay(value) {
-    document.getElementById("display").value += value;
-}
-
+class Calculator {
+    constructor(displayElement) {
+        this.displayElement = displayElement;
+        this.clear();
+    }
 function clearDisplay() {
     document.getElementById("display").value = '';
 }
