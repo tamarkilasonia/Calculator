@@ -32,3 +32,14 @@ appendToDisplay(value) {
 document.addEventListener("DOMContentLoaded", () => {
     const displayElement = document.getElementById("display");
     const calculator = new Calculator(displayElement);
+    
+ document.querySelectorAll(".btn").forEach(button => {
+        button.addEventListener("click", () => {
+            const value = button.dataset.value;
+            if (value === "clear") calculator.clear();
+            else if (value === "delete") calculator.deleteLast();
+            else if (value === "equals") calculator.calculate();
+            else calculator.appendToDisplay(value);
+        });
+    });
+});
