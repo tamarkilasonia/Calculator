@@ -3,9 +3,12 @@ class Calculator {
         this.displayElement = displayElement;
         this.clear();
     }
-function clearDisplay() {
-    document.getElementById("display").value = '';
-}
+    
+ clear() {
+        this.display = '';
+        this.updateDisplay();
+    }
+
 
 function deleteLast() {
     let currentDisplay = document.getElementById("display").value;
