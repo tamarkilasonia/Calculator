@@ -22,7 +22,7 @@ It allows users to perform basic arithmetic operations in an intuitive and user-
    ```bash
    git clone https://github.com/tamarkilasonia/calculator-project.git
 
-1)Open index.html in a web browser.
+1)Open index.html in a web browser
 2)Start performing calculations!
 
 
