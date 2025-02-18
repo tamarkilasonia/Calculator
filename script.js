@@ -42,4 +42,4 @@ document.addEventListener("DOMContentLoaded", () => {
             else calculator.appendToDisplay(value);
         });
     });
-})
+});
