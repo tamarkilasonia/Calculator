@@ -29,4 +29,6 @@ appendToDisplay(value) {
         this.updateDisplay();
     }
 }
-
+document.addEventListener("DOMContentLoaded", () => {
+    const displayElement = document.getElementById("display");
+    const calculator = new Calculator(displayElement);
