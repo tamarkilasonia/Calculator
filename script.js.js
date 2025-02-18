@@ -20,4 +20,13 @@ appendToDisplay(value) {
         this.display += value;
         this.updateDisplay();
     }
+ calculate() {
+        try {
+            this.display = new Function('return ' + this.display)();
+        } catch {
+            this.display = 'Error';
+        }
+        this.updateDisplay();
+    }
+}
 
