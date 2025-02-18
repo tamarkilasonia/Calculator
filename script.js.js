@@ -9,6 +9,10 @@ class Calculator {
         this.updateDisplay();
     }
 
+deleteLast() {
+        this.display = this.display.slice(0, -1);
+        this.updateDisplay();
+    }
 
 function deleteLast() {
     let currentDisplay = document.getElementById("display").value;
