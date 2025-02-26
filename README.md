@@ -1,23 +1,23 @@
-# 🖩 Simple Web Calculator
+# Simple Web Calculator
 
 This project is my **first HTML project**, a simple web-based **calculator** built using HTML, CSS, and JavaScript. 🚀  
 
 It allows users to perform basic arithmetic operations in an intuitive and user-friendly interface.  
 
-## 📌 Features
+## Features
 ✅ Perform basic calculations: **Addition (+), Subtraction (-), Multiplication (*), Division (/)**  
 ✅ **Clear (`C`) and Delete (`DEL`)** functions  
 ✅ Responsive and **mobile-friendly** design  
 ✅ Interactive **button-based input**  
 ✅ Simple and **minimalistic UI**  
 
-## 🛠 Technologies Used
+## Technologies Used
 - ✅ HTML 
 - ✅ CSS
 - ✅ JavaScript  
 
 
-## 🚀 How to Use
+##  How to Use
 1. Clone the repository:  
    ```bash
    git clone https://github.com/tamarkilasonia/calculator-project.git
