@@ -5,11 +5,11 @@ This project is my **first HTML project**, a simple web-based **calculator** bui
 It allows users to perform basic arithmetic operations in an intuitive and user-friendly interface.  
 
 ## Features
-✅ Perform basic calculations: **Addition (+), Subtraction (-), Multiplication (*), Division (/)**  
-✅ **Clear (`C`) and Delete (`DEL`)** functions  
-✅ Responsive and **mobile-friendly** design  
-✅ Interactive **button-based input**  
-✅ Simple and **minimalistic UI**  
+ Perform basic calculations: **Addition (+), Subtraction (-), Multiplication (*), Division (/)**  
+ **Clear (`C`) and Delete (`DEL`)** functions  
+Responsive and **mobile-friendly** design  
+ Interactive **button-based input**  
+Simple and **minimalistic UI**  
 
 ## Technologies Used
 - ✅ HTML 
