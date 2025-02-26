@@ -26,11 +26,10 @@ It allows users to perform basic arithmetic operations in an intuitive and user-
 2)Start performing calculations!
 
 
-##Future Improvements
+Future Improvements
+-  Add a Dark Mode option
 
-🔹 Add a Dark Mode option
+-  Implement keyboard support
 
-🔹 Implement keyboard support
-
-🔹 Improve UI animations and transitions
+-  Improve UI animations and transitions
 
