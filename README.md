@@ -12,9 +12,9 @@ It allows users to perform basic arithmetic operations in an intuitive and user-
 - Simple and **minimalistic UI**  
 
 ## Technologies Used
-- ✅ HTML 
-- ✅ CSS
-- ✅ JavaScript  
+- HTML 
+- CSS
+- JavaScript  
 
 
 ##  How to Use
