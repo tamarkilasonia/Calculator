@@ -27,7 +27,10 @@ It allows users to perform basic arithmetic operations in an intuitive and user-
 
 
 💡 Future Improvements
+
 🔹 Add a Dark Mode option
+
 🔹 Implement keyboard support
+
 🔹 Improve UI animations and transitions
 
